@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 - 🔭 I’m currently working on my System Design Capstone
 - 🌱 I’m currently learning JavaScript
