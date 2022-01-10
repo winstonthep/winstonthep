@@ -1,7 +1,7 @@
 ### Howdy! 👋
 
 A little about me:
-- 🔭 I’m currently working on my System Design Capstone
+- 🔭 I’m currently working on my System Design Capstone (back-end)
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Python and a TBD Compiled Language
 - 📫 How to reach me: winstonspantelakos@gmail.com 
