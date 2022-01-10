@@ -1,5 +1,6 @@
 ### Howdy! 👋
 
+A little about me:
 - 🔭 I’m currently working on my System Design Capstone
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with Python and a TBD Compiled Language
