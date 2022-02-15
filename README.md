@@ -1,8 +1,8 @@
 ### Howdy! 👋
 
 A little about me:
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with Python and a TBD Compiled Language
+- 🌱 I’m currently learning JavaScript and TypeScript
+- 🤔 I’m looking for help a TBD Compiled Language
 - 📫 How to reach me: winstonspantelakos@gmail.com 
 - 😄 Pronouns: he / him / his
 - ⚡ Fun facts: I'm an avid tennis player and love funk and disco music!
