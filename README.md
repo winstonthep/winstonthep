@@ -1,4 +1,4 @@
-### Howdy!🤠
+### Howdy! 🤠
 A little about me:
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 🤔 I’m looking for help a TBD Compiled Language
