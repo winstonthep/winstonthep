@@ -1,4 +1,4 @@
-### Howdy! 🤠
+### Howdy! 🤠 🌈
 A little about me:
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: winstonspantelakos@gmail.com 
