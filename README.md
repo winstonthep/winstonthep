@@ -1,6 +1,6 @@
 ### Howdy! 🤠 🌈
 A little about me:
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning TypeScript and Go
 - 📫 How to reach me: winstonspantelakos@gmail.com 
 - 😄 Pronouns: he / him / his
 <!--
